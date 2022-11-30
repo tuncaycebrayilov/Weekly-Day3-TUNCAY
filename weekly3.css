@@ -1,0 +1,55 @@
+.image {
+    border-radius: 20px;
+}
+.text {
+    color: white; 
+    margin-top: -270px;
+    margin-left: 350px;    
+}
+.text3 {
+    color: white;
+    width: 500px;
+}
+.image2 {
+    background:url(https://cdn.theculturetrip.com/wp-content/uploads/2021/12/dbxhkt_hong-kong-sar-china--sean-pavone-alamy-stock-photo.jpg);
+    margin-top: 100px;
+    color: white;
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    border-radius: 20px; 
+    padding-top: 50px; 
+    padding-left: 10px;
+}
+
+.starboy {
+    border-radius: 20px;
+    width: 250px;
+   
+}
+
+.kissland {
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 30px;
+}
+.image4 {
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 30px;
+}
+.image5 {
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 30px;
+}
+.trilogy {
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 30px;
+}
+.container {
+    width: 80%;
+    margin:0  auto;
+    padding: 50px 0;
+}
